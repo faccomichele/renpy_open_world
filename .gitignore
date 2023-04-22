@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project Specific
+log.txt
+*.rpy*c
+saves
+cache
+row
